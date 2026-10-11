@@ -9,11 +9,11 @@ Thinkcentre M720t
 ### System 
 Proxmox VE - Virtualization Platform
 - Operating System: `debian-netinst`
-- Services: `Docker`, `Portainer`, `TailScale`
+- Services: `Docker` `Portainer` `TailScale`
 
 
 ### Minecraft Server
 - Modpack: [ATM10 Aeronautics](https://www.curseforge.com/minecraft/modpacks/all-the-mods-10-aeronautics)
-- Services: `Crafty Controller`, `PLAYIT.GG Tunnel`
-- IP:`della-pix.tun.ply.gg`
+- Services: `Crafty Controller` `PLAYIT.GG Tunnel`
+- IP: `della-pix.tun.ply.gg`
 
